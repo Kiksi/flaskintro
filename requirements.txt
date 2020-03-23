@@ -75,7 +75,7 @@ pbr==5.4.4
 pep440==0.1.0
 pexpect==4.2.1
 pickleshare==0.7.4
-Pillow==5.1.0
+Pillow==6.2.0
 pkginfo==1.5.0.1
 pprintpp==0.4.0
 prompt-toolkit==1.0.15
